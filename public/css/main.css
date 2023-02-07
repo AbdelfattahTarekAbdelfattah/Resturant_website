@@ -1,0 +1,14 @@
+i{
+    font-size: 30px;
+    color: #fff;
+    background-color: #07ff;
+    margin-left: 90px;
+    padding: 5px 11px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+i:hover{
+    background: #09ff;
+    transform: scale(1.1);
+}

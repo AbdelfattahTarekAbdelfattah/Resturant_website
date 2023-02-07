@@ -1,0 +1,18 @@
+.Some-Photo{
+    margin-top: 50px;
+}
+.Some-Photo h2{
+    color: #ab3550;
+}
+.Some-Photo p{
+    line-height: 30px;
+    color: #333;
+}
+.Some-Photo button{
+    background-color: #ab3550;
+    color: #fff;
+}
+.Some-Photo button:hover{
+    background-color: #a0304a;
+    color: #fff;
+}

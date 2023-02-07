@@ -1,0 +1,9 @@
+.Testimonials{
+    margin-top: 50px;
+    background-color: #ab3550;
+    width: 100%;
+    height: 400px;
+}
+.Testimonials img{
+    border-radius: 10px;
+}

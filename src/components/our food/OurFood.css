@@ -1,0 +1,31 @@
+.Card{
+    margin-top: 50px;
+}
+.Card img{
+    width: 100%;
+    border-radius: 30px;
+}
+.p{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+.Card h5{
+    color: #ab3550;
+    margin: 10px 0;
+    font-weight: bold;
+}
+.Card h4{
+    color: #ab3550;
+}
+span{
+    color: #333;
+}
+.btn{
+    background-color: #ab3550;
+    border: 2px solid #ab3550;
+    color: #fff;
+}
+.btn:hover{
+    background-color: transparent;
+}

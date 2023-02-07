@@ -1,0 +1,36 @@
+.cownter{
+    background-color: #ab3550;
+    color: #fff;
+    padding: 25px 0;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 30px;
+}
+.cownter h2{
+    font-weight: bold;
+    margin: 10px 0;
+}
+.info{
+    margin-top: 50px;
+}
+.row img{
+    width: 550px;
+}
+.info h2{
+    color: #ab3550;
+    letter-spacing: 1px;
+}
+.info p{
+    color: #333;
+    line-height: 30px !important;
+}
+.info button{
+    border: 2px solid #ab3550;
+    background-color: #ab3550;
+    color: #fff;
+}
+.info button:hover{
+    background-color: transparent;
+    color: #000;
+}
